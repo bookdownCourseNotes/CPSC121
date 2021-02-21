@@ -1,0 +1,5 @@
+book_filename: "CPSC121"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
